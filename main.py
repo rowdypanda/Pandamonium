@@ -22,7 +22,8 @@ starter_encouragements = [
   "Optimism is the faith that leads to achievement - Helen Keller",
   "You got this.",
   "I know this won't be easy, but I know you've also got what it takes to get through it.",
-  "Sending you good thoughts - and hoping you believe in yourself just as much as I believe in you."
+  "Sending you good thoughts - and hoping you believe in yourself just as much as I believe in you.",
+  "I hope you live a life you're proud of, and if you find that you're not, I hope you have the strength to start over."
 ]
 
 if "responding" not in db.keys():
